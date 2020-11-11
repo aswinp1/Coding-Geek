@@ -1,0 +1,17 @@
+Compete
+1. Codechef - https://www.codechef.com/contests
+2. CodeForces - https://codeforces.com/contests
+3. HackerRank - https://www.hackerrank.com/contests
+4. HackerEarth - https://www.hackerearth.com/challenges/
+5. Interview Bit - https://www.interviewbit.com/contests/
+6. Leetcode - https://leetcode.com/contest/
+
+
+Practice
+1. Codechef - https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems
+2. CodeForces - https://codeforces.com/problemset
+3. GFG - https://practice.geeksforgeeks.org/explore/?
+4. HackerRank - https://www.hackerrank.com/dashboard
+5. HackerEarth - https://www.hackerearth.com/practice/
+6. Interview Bit - https://www.interviewbit.com/practice/
+7. Leetcode - https://leetcode.com/problemset/all/
