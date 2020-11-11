@@ -15,7 +15,8 @@
 	text-shadow: 2px 2px 10px #5c6e91;
 }
 
-.head-container {
+.container {
 	flex-direction: row;
 	flex-wrap: wrap;
+	margin-bottom: 10%;
 }
