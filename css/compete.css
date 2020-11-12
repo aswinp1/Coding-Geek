@@ -1,0 +1,15 @@
+body {
+    background-color: lightgreen;
+}
+h1{ 
+    color:red;
+    text-align: center;
+}
+img {
+     border: 5px solid rgb(5, 5, 5);
+}
+header { 
+    nav-down: current;
+    color: maroon;
+    text-decoration: mintcream;
+}
